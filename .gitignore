@@ -1,10 +1,11 @@
-/[Aa]ssets/GoogleVR/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 
+# do not upload googleVR plugin folder which can be heavy
 /Assets/AssetStoreTools*
 /Assets/Plugins*
 
